@@ -1,4 +1,4 @@
-package com.example.ch13_practice_13_32_2;
+package com.example.ch13_practice_13_32_4;
 
 import org.junit.Test;
 
